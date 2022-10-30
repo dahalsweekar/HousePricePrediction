@@ -1,0 +1,13 @@
+Predictions:
+
+Decision Tree:
+    Mean:  4.128736114306692
+    Standard Deviations:  1.023915263210666
+    
+Linear Regression:
+    Mean:  3.3700072718547744
+    Standard Deviations:  0.9738856757959614
+    
+Forest Regression:
+    Mean:  2.8874203232268214
+    Standard Deviations:  0.8501251598891145
